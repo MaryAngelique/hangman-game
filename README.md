@@ -25,8 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Hangman Game GitHub Solution](https://github.com/MaryAngelique/hangman-game)
-- Live Site URL: Hangman Game Website
-
+- Live Site URL: [Hangman Game Website](https://hangman-game-zero.vercel.app/)
 ## My process
 
 ### Built with
