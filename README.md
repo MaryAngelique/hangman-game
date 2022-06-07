@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Hangman Game GitHub Solution
+- Solution URL: [Hangman Game GitHub Solution](https://github.com/MaryAngelique/hangman-game)
 - Live Site URL: Hangman Game Website
 
 ## My process
