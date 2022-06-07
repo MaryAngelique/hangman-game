@@ -19,18 +19,13 @@ Users should be able to:
 
 #### - See the "hangman" svg as they guess
 
-#### - See a success or failed game after guessing
+#### - See a success or failed game after guessing correctly or failed to guess
 
-### Features
-
-### Project Demo
-
-[![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
-- Live Site URL: [ Website](Deployed website)
+- Solution URL: Hangman Game GitHub Solution
+- Live Site URL: Hangman Game Website
 
 ## My process
 
@@ -38,8 +33,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
-- Asynchronous JavaScript
-- API Request
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
