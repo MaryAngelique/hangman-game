@@ -4,8 +4,6 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Features](#features)
-  - [Demo](#project-demo)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -17,11 +15,11 @@
 
 Users should be able to:
 
-#### - 
+#### - Type any letter on their keyboard to guess a letter
 
-#### - 
+#### - See the "hangman" svg as they guess
 
-#### - 
+#### - See a success or failed game after guessing
 
 ### Features
 
